@@ -126,7 +126,7 @@ body {
   position: absolute; /* 从 fixed 改为 absolute */
   width: 80px;
   top: 0%;  /* 相对于 .six 的顶部的百分比 */
-  left: 53%;  /* 如果你希望让 .hat 出现在 img 的右侧，你可能需要微调这个值 */
+  left: 60%;  /* 如果你希望让 .hat 出现在 img 的右侧，你可能需要微调这个值 */
   
   /* transform: scale(0.1); */
 }
@@ -236,7 +236,7 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 53%;
+    left: 58%;
   }
 }
 
@@ -254,7 +254,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 53%;
+    left: 58%;
   }
 }
 
