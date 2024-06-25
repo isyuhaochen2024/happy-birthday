@@ -1,11 +1,11 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "Hello ! ! !",
+  "name": "诗佳",
+  "greetingText": "哈哈哈哈哈这是在6.25写的!",
+  "wishText": "愿你心想事成，天天开心，快乐不止生日! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "How to wish a beautiful girl Happy Birthday...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "End.",
+  "replayText": "Retry.",
   "outroSmiley": ":)"
 }
